@@ -6,6 +6,8 @@
 # 20.1 Introduction
  
 # vectors make up tibbles, vectors are important
+# my comments are usually frivolous
+# not so good for production but interesting to read back
  
 # 20.1.1 Prerequisites
 library(tidyverse)
